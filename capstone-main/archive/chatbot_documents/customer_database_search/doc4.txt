@@ -1,0 +1,10 @@
+Customer Lifetime Value (CLV)
+Title: Understanding Customer Lifetime Value
+
+Customer Lifetime Value (CLV) is a crucial metric that estimates the total revenue a business can expect from a customer over the duration of their relationship. This document explains the significance of CLV and how to calculate it.
+
+To calculate CLV, businesses must consider factors such as average purchase value, purchase frequency, and customer lifespan. For example, if a customer spends $100 per transaction, shops four times a year, and remains a customer for five years, their CLV would be $2,000.
+
+Understanding CLV helps businesses make informed decisions regarding customer acquisition and retention strategies. A high CLV indicates that investing in customer retention initiatives can yield significant returns.
+
+By regularly monitoring CLV, businesses can identify trends and adjust their strategies accordingly. Increasing CLV can involve enhancing customer experience, offering loyalty programs, and personalizing communications.

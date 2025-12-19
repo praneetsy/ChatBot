@@ -1,0 +1,12 @@
+gensim>=4.3.0
+pandas>=1.3.5
+numpy>=1.21,<2.0
+fastapi[standard]
+fitz
+openai
+langchain_openai
+langchain
+langchain_core
+chromadb
+pydantic
+langchain_community
