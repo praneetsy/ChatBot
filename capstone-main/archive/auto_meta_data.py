@@ -3,7 +3,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-#openai.api_key = os.getenv("sk-LFLTGyz5_itvflWN2_LKiohf-sJqfeATunE41XBdSkT3BlbkFJadyQ-XkMdcbWbsiFPk0G1jDnS11NZRks9axm6BR7kA")  # Ensure your API key is set in the environment
+#openai.api_key = os.getenv("sk-_itvflWN2_LKiohf-sJqfeATunE41XBdSkT3BlbkFJadyQ-XkMdcbWbsiFPk0G1jDnS11NZRks9axm6BR7kA")  # Ensure your API key is set in the environment
 import json
 import fitz  # PyMuPDF
 from openai import OpenAI
